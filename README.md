@@ -656,36 +656,18 @@ Next ──────────────► Open Source Contributions
 <!--                     CONNECT                           -->
 <!-- ===================================================== -->
 
+
 # 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/anmol-chaurasiya-885316206">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+| LinkedIn | GitHub | Email | Portfolio |
+|:--------:|:------:|:-----:|:---------:|
+| <a href="https://www.linkedin.com/in/anmol-chaurasiya-885316206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <a href="https://github.com/AnmolChaurasiya1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a> | <a href="mailto:anmolgaurav2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> | <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"></a> |
 
-&nbsp;
-
-<a href="mailto:anmolgaurav2018@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/AnmolChaurasiya1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-&nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
-
 # 💡 Interests
 
 <div align="center">
