@@ -663,7 +663,7 @@ Next ──────────────► Open Source Contributions
 
 | LinkedIn | GitHub | Email | Portfolio |
 |:--------:|:------:|:-----:|:---------:|
-| <a href="https://www.linkedin.com/in/anmol-chaurasiya-885316206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <a href="https://github.com/AnmolChaurasiya1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a> | <a href="mailto:anmolgaurav2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> | <a href="https://anmolchaurasiya1.github.io/Personal-Website/"> 
+| <a href="https://www.linkedin.com/in/anmol-chaurasiya-885316206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <a href="https://github.com/AnmolChaurasiya1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a> | <a href="mailto:anmolgaurav2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> | <a href="https://anmolchaurasiya1.github.io/Personal-Website/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"></a> |
 
 </div>
 
